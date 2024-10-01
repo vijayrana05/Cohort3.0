@@ -1,0 +1,2 @@
+promise takes a function as input and whenver first argument(resolve) of that fucntion is called 
+it executes then(main) fucntion

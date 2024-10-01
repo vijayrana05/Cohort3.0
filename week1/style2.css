@@ -1,0 +1,36 @@
+.flex-container2{
+    display: flex;
+    flex-direction: row;
+}
+
+body {
+    background-color: #0e0e0e;
+    padding-top: 10px;
+}
+
+.vscodelogo{
+    padding-left: 130px;
+}
+
+.vscodehead{
+    color: white;
+    font-size:  23px;
+    padding-left: 7px;
+}
+
+.topbar{
+    color: grey;
+    padding-left: 24px;
+    font-size:medium;
+    font-size:17px ;
+    padding-top: 4px;
+}
+
+.searchbox{
+    padding-left: 370px;
+    
+}
+.actualbox{
+    width: 150px;
+    height: 22px;
+}

@@ -1,0 +1,8 @@
+ cd /mnt/c/users/vijay/Desktop
+ to go to Desktop
+ pwd to check where you are rightnow
+ cd .. to go back from this folder
+ ls list all files inside that folder your in 
+ mkdir test   this will create folder called test in desktop if we are inside desktop 
+ touch lets you create your own file
+ cat shows content of file
